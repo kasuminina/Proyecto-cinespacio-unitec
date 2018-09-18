@@ -1,0 +1,10 @@
+Nombre del proyecto:
+Cinespacio
+
+Integrantes: 
+María Fernanda Espejo
+Christian Rivas
+Karla Vega
+
+Descripción del proyecto:
+Plataforma web para la exhibición y distribución de proyectos audiovisuales de jóvenes realizadores.
